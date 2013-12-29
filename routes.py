@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 from forms import ContactForm
 
 app = Flask(__name__)
+app.config.from_object('config')
 
 @app.route('/')
 def home():
@@ -11,7 +12,7 @@ def home():
 def about():
     return render_template('about.html')
 
-@app.route('/contact')
+@app.route('/contact', methods=['GET', 'POST'])
 def contact():
     form = ContactForm()
     
