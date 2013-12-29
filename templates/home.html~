@@ -5,5 +5,6 @@
 	  <img src="static/img/Agilegibbon.jpg" alt="a beautiful gibbon!" class="img-circle">
 			<h3>This is the homepage of Matt Gibson, a <a href="http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram">data scientist</a>.<h3>
 					<p> I live <a href="http://en.wikipedia.org/wiki/Sydney">Sydney</a>, 'Straya. I like <a href="http://en.wikipedia.org/wiki/Exploratory_data_analysis">data analysis</a>, <a href="http://www.r-project.org/">statistical</a> <a href="http://www.python.org/">computing</a>, and <a href="http://www.seriouseats.com/the-food-lab/?ref=nav_main">cooking</a>. I'm fascinated by decision making and social choice (such as <a href="http://www.fivethirtyeight.com/">voting</a>).</p>
+					<p> I'm also quite keen on gibbons </p>
   </div>
 {% endblock %}
