@@ -1,6 +1,4 @@
-portions (menubar, css, static pages)  of this webpage are stolen from:
-http://net.tutsplus.com/tutorials/python-tutorials/an-introduction-to-pythons-flask-framework/
+This is my website. It is written using python and the flask framework.
 
-also this site was quite useful:
-http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-
+My initial version consists of a single page, it will be updated with stuff
+eventually. 
